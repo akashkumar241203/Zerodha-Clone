@@ -1,0 +1,12 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Optionally, you can add other common files or directories to ignore
+.DS_Store
+dist/
+build/
+coverage/
+*.log
